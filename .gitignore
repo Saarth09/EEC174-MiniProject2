@@ -1,0 +1,9 @@
+# Too large for GitHub (download separately, same as A1)
+yolo_files/yolov3.weights
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
